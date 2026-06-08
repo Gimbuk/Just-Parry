@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dde3a32c3d36d5d49808dcf57566a498
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firstPersonCamera: {instanceID: 0}
+  - cameraTarget: {instanceID: 0}
+  - thirdPersonCamera: {instanceID: 0}
+  - characterBody: {fileID: 919132149155446097, guid: c42d0a7f44225de418b2154f4fc26e20, type: 3}
+  - helmetObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
